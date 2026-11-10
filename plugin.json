@@ -1,0 +1,21 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "postdovo",
+  "displayName": "PostDovo",
+  "version": "1.0.0",
+  "description": "Plan, write, schedule and publish social media posts from your agent, on the social accounts you connected in your PostDovo account.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Which social accounts do I have connected in PostDovo?",
+    "Write a LinkedIn post about our new opening hours and save it as a draft in PostDovo.",
+    "Make three Facebook posts for tomorrow, one for the morning, one for lunch and one for the evening, and schedule them in PostDovo."
+  ],
+  "author": {
+    "name": "Vector Wave Tech Pte. Ltd.",
+    "url": "https://postdovo.com"
+  },
+  "homepage": "https://postdovo.com",
+  "repository": "https://github.com/postdovo/postdovo-antigravity",
+  "license": "Proprietary",
+  "keywords": ["social-media", "scheduling", "publishing", "posts"]
+}
